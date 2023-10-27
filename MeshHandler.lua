@@ -323,6 +323,7 @@ function MeshHandler.Polygonise(Mesh, Grid, Isolevel)
 	end
 	return triangles
 end
+return MeshHandler
 
 --[[
 Original code from http://paulbourke.net/geometry/polygonise/
